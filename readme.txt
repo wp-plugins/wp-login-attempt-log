@@ -4,7 +4,7 @@ Donate link: http://simonfredsted.com
 Tags: login, security, attempt, log
 Requires at least: 3.9
 Tested up to: 3.9.1
-Stable tag: trunk
+Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -25,7 +25,6 @@ Features:
 Coded by [Simon Fredsted](http://simonfredsted.com). (c) 2014
 
 ![screenshot](http://filedump.fredsted.me/Screen%20Shot%202014-06-14%20at%2023.43.25.png)
-
 == Installation ==
 
 To install, simply place files in `[WORDPRESS_ROOT]/wp-content/plugins/wp-login-attempt-log`.
@@ -34,14 +33,6 @@ To install, simply place files in `[WORDPRESS_ROOT]/wp-content/plugins/wp-login-
 
 1. Displaying the bar graph and statistics. More statistics will show as time goes on.
 2. The log viewer interface
-
-== Frequently Asked Questions ==
-
-This is the first version, so I haven't added gotten any questions yet.
-
-== Upgrade Notice == 
-
-No action needed when upgrading.
 
 == Changelog ==
 
