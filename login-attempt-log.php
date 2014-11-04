@@ -2,7 +2,7 @@
 /* 
 Plugin Name: Login Attempt Log 
 Plugin URI: http://www.simonfredsted.com/wordpress/login-attempt-log
-Version: 1.1
+Version: 1.2
 Author: Simon Fredsted
 Description: Logs login attempts to your WordPress site.
 */
@@ -79,7 +79,6 @@ function lal_assets()
 	<style>
 		@import url($path/lal.css);
 	</style>
-	<script src="$path/Chart.min.js" type="text/javascript"></script>
 	<script type="text/javascript" src="$path/canvasjs.min.js"></script>
 
 ASSETS;
