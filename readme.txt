@@ -36,6 +36,9 @@ To install, simply place files in `[WORDPRESS_ROOT]/wp-content/plugins/wp-login-
 
 == Changelog ==
 
+= 1.2.2 =
+Fix background of Box Stats in Settings area
+
 = 1.2 =
 * WordPress 4.0 compatibility
 
